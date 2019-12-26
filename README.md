@@ -2,7 +2,7 @@
 <img src="https://github.com/wongkaho2626/Gemz/blob/master/Figure%201.png"/>
 <img src="https://github.com/wongkaho2626/Gemz/blob/master/Figure%202.png"/>
 
-You can try it on https://wongkaho2626.github.io/Gemz/
+You can try it on <a target="_blank">https://wongkaho2626.github.io/Gemz/</a>
 
 You are asked to implement the Gemz game (demo video at https://www.youtube.com/watch?v=DuhPvXbu5ZU) with the following additional requirements:
 
